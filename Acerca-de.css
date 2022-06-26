@@ -1,0 +1,109 @@
+ .u-section-1 {
+  background-image: url("images/mar-y-oceano-imagen-animada-0012.gif");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 710px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 83px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Allerta Stencil";
+  font-size: 3rem;
+  margin: 42px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: 31px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: "Allerta Stencil";
+  font-weight: 400;
+  font-size: 1.875rem;
+  width: 793px;
+  margin: 42px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: linear-gradient(to right, white, #7ba6d9);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 0px;
+  align-self: center;
+  margin: 42px auto 60px;
+  padding: 21px 110px 23px 109px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 520px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 585px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 366px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 448px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 240px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 336px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 99px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 212px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 1.5rem;
+    width: 340px;
+  }
+}
